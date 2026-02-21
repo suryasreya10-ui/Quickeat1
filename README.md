@@ -2,27 +2,34 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# Quickeat 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: Tinker
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: Surya Sreya N S - College of Engineering Munnar
+- Member 2: Liyana Benny - College of Engineering Munnar
 
 ### Hosted Project Link
 [mention your project hosted link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+This project is a **Canteen Ordering Website** that allows users to view a complete food menu with photos, prices, and a special dish of the day. Customers can select items, adjust quantities, and see the total cost while ordering. After placing an order, the system generates a detailed bill with a QR code for payment and displays a payment success confirmation when admin approved the payment.
+
 
 ### The Problem statement
-[What problem are you solving?]
+**Problem Statement:**
+
+In many canteens, the food ordering process is manual, time-consuming, and often leads to long queues, billing errors, and lack of clear menu information. Customers cannot easily view available items, prices, or calculate their total cost before ordering. Therefore, there is a need to develop a digital canteen ordering system that displays the full menu with images and prices, allows users to select items and quantities, generates an automatic bill with QR-based payment, and shows payment confirmation to make the ordering process faster, accurate, and convenient.
+
 
 ### The Solution
-[How are you solving it?]
+**Solution:**
+
+To solve this problem, a **digital canteen ordering website** is developed that allows users to easily view the complete menu with food images, prices, and the special dish of the day. Customers can select items, choose quantities, and automatically see the total cost before placing an order. After ordering, the system generates a detailed bill with item names, quantity, price, and a QR code for payment, and finally displays a payment success confirmation, making the ordering process faster, accurate, and convenient.
+
 
 ---
 
@@ -46,10 +53,10 @@
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: Shows the full food menu with images, prices, categories, and the special food of the day.
+- Feature 2: Allows users to select items, adjust quantity/count, and automatically view the total price while ordering.
+- Feature 3: Creates a detailed receipt showing food names, quantity, individual prices, and total amount.
+- Feature 4: Generates a QR code for payment and displays a “Payment Successful” message after the bill is paid.
 
 ---
 
@@ -82,15 +89,26 @@ List the key features of your project:
 ### For Software:
 
 #### Screenshots (Add at least 3)
+<img width="1920" height="1080" alt="screenshot1" src="https://github.com/user-attachments/assets/e6a4a3e2-af4f-4cff-b12f-18b67fab5ab0" />
+**Caption:**
 
-![Screenshot1](Add screenshot 1 here with proper name)
+This screen shows the **Admin Panel of the College Canteen Website**, where the administrator can manage food items, view stock status, update availability (in stock/out of stock), monitor payments, and control special menu items displayed to customers.
+
+
+<img width="1920" height="1080" alt="screenshot2" src="https://github.com/user-attachments/assets/0fa9083f-7656-4d73-ba95-cbc45ece2a17" />
+**Caption:**
+
+This screen shows the **food menu section of the College Canteen Website**, where different food items are displayed with images, names, prices, and an “Add” button that allows users to select items and add them to their cart for ordering.
+
+
+
+<img width="1920" height="1080" alt="screenshot3" src="https://github.com/user-attachments/assets/d6ec11da-6ed9-450d-bd29-0c220f5f84a4" />
+**Caption:**
+
+This screen shows the final bill receipt and payment section of the Canteen Ordering Website, where the selected food items, their quantities, and total amount are displayed. It also includes a QR code for digital payment and a confirmation button to complete the payment successfully.
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
 #### Diagrams
 
